@@ -1,6 +1,8 @@
 Introducción a R
 ================
 
+hola
+
 Conceptos básicos
 -----------------
 
