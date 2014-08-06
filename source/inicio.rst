@@ -6,7 +6,7 @@
 Taller de Computación Estadística basado en R
 =============================================
 
-Contenidos:
+Contenidos: esto es una lista de contenidos que estoy haciendo para mostrarle al sensei que pude hacerlo =)
 
 .. toctree::
    :maxdepth: 2
