@@ -1,9 +1,9 @@
-Taller de Computación Estadística Basado en R
+Taller de Computación Estadística basado en R
 =============================================
 
 # Enfoque del Curso
 
-El uso de R tiene dos puntos de vistas, uno de computación dirigido hacia el uso de R como lenguaje de programación, y otro estadístico, en el cual R sirve de herramienta para modelado estadístico. Ambos enfoques son fundamentales para el correcto uso del entorno R, este taller pretende ofrecer un balance equilibrado entre R como lenguaje de programación y como herramienta de modelado estadístico.
+El uso de R tiene dos puntos de vista, uno de computación considerando R como lenguaje de programación, y otro en el cual R sirve de herramienta para modelado estadístico. Ambos enfoques son fundamentales para el correcto uso del entorno R, este taller pretende ofrecer un balance equilibrado entre R como lenguaje de programación y como herramienta de modelado estadístico.
 
 # Contenidos
 
